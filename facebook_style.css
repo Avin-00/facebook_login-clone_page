@@ -1,0 +1,85 @@
+
+
+#facebook_logo{
+    margin-left: 870px;
+    
+
+
+}
+.block1{
+    background-color: white;
+    height: 340px;
+    width: 440px;
+    border: 100px;
+    margin-left: 40%;
+    margin-top: -20px;
+    border-radius: 30px;
+    box-shadow: 1px 1px 40px 1px;
+    color: rgb(86, 86, 241);
+    
+}
+.h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    text-align: center;
+    font-size: 16px
+    
+    
+}
+.email{
+    margin-left: 20px;
+    height: 40px;
+    width: 350px;
+    background-color: white;
+    border-radius: 5px;
+    font-weight: lighter;
+    font-size: 15px;
+    border-color: #f2f4f7;
+    border-style: double;
+    padding: 1px 16px
+    
+}
+.head{
+    padding: 24px;
+}
+.background{
+    background-color: #f2f4f7;
+    height: 500px;
+}
+.button1{
+    background-color: #1877f2;
+    height: 50px;
+    width: 380px;
+    border-radius: 10px;
+    margin-left: 25px;
+    border-color: transparent;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;    
+}
+.forgot_sign{
+    padding: 30px;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 14px;
+    text-decoration: none;
+    
+}
+.form{
+    margin-top: -20px;
+}
+
+#forget_account{
+    font-family: inherit;
+    text-decoration: none;
+}
+#sign_in{
+    font-family: inherit;
+    text-decoration: none;
+}
+#forget_account:hover{
+    text-decoration: underline;
+}
+#sign_in:hover{
+    text-decoration: underline;
+}
